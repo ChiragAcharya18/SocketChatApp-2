@@ -1,0 +1,8 @@
+Dependencies:
+*sqlite3
+*pickle
+*threading
+*getpass
+*stdiomask
+*aess is a encryption module
+*pycryptodome
